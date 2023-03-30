@@ -1,0 +1,12 @@
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/bin/Debug/net7.0/RoundaBoutz.Shared.deps.json
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/bin/Debug/net7.0/RoundaBoutz.Shared.dll
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/bin/Debug/net7.0/RoundaBoutz.Shared.pdb
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.csproj.AssemblyReference.cache
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.AssemblyInfoInputs.cache
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.AssemblyInfo.cs
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.csproj.CoreCompileInputs.cache
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.dll
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/refint/RoundaBoutz.Shared.dll
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/RoundaBoutz.Shared.pdb
+/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Shared/obj/Debug/net7.0/ref/RoundaBoutz.Shared.dll

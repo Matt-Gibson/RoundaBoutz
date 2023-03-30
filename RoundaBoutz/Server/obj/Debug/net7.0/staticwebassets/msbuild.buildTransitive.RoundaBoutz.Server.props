@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/RoundaBoutz.Server.props" />
+</Project>
