@@ -157,6 +157,43 @@
         }
       },
       {
+        "HashCode": 1439172022,
+        "Kind": "Components.Component",
+        "Name": "RoundaBoutz.Client.Pages.Customers",
+        "AssemblyName": "RoundaBoutz.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Customers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RoundaBoutz.Client.Pages.Customers",
+          "Common.TypeNamespace": "RoundaBoutz.Client.Pages",
+          "Common.TypeNameIdentifier": "Customers"
+        }
+      },
+      {
+        "HashCode": -1145162016,
+        "Kind": "Components.Component",
+        "Name": "RoundaBoutz.Client.Pages.Customers",
+        "AssemblyName": "RoundaBoutz.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RoundaBoutz.Client.Pages.Customers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RoundaBoutz.Client.Pages.Customers",
+          "Common.TypeNamespace": "RoundaBoutz.Client.Pages",
+          "Common.TypeNameIdentifier": "Customers",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1683398730,
         "Kind": "Components.Component",
         "Name": "RoundaBoutz.Client.Shared.SurveyPrompt",
@@ -15938,6 +15975,11 @@
     {
       "FilePath": "/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/Customers.razor",
+      "TargetPath": "Pages\\Customers.razor",
       "FileKind": "component"
     },
     {
