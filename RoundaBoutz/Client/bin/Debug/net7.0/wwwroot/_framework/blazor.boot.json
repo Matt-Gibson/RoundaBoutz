@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
       "RoundaBoutz.Shared.dll": "sha256-utOYDhVYSMHUXrD5isPEWQDmmFhmTvs\/Ad2fvlGHsPk=",
-      "RoundaBoutz.Client.dll": "sha256-DTYldhhM8IuG1mruKFWyv\/5p1H\/aL0kjNho+VWR\/Kjo="
+      "RoundaBoutz.Client.dll": "sha256-mO4YC7RfXHMviY9ioWSEKZ8z8YTn4XfpVYRC\/yxs8Sc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "RoundaBoutz.Shared.pdb": "sha256-rBpY8p+JNgzfR7SBcofWod3LEUDX7ZPwYuVCCGSnhz0=",
-      "RoundaBoutz.Client.pdb": "sha256-ojGJdH6KamTvwivYv4vUla3gkOKh4HfsOBvi8UsUb\/A="
+      "RoundaBoutz.Client.pdb": "sha256-8iIOaZZ2f+f\/yFZdwnlafqZKTvMbCaz0\/5fI+BdYl1I="
     },
     "runtime": {
       "dotnet.7.0.4.qbnkzbg6g0.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",
