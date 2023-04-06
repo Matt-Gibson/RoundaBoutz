@@ -5266,6 +5266,65 @@
         }
       },
       {
+        "HashCode": 805347648,
+        "Kind": "Components.Component",
+        "Name": "RoundaBoutz.Client.Pages.CustomerDetails",
+        "AssemblyName": "RoundaBoutz.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CustomerDetails"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Id",
+              "Common.GloballyQualifiedTypeName": "global::System.Guid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RoundaBoutz.Client.Pages.CustomerDetails",
+          "Common.TypeNamespace": "RoundaBoutz.Client.Pages",
+          "Common.TypeNameIdentifier": "CustomerDetails"
+        }
+      },
+      {
+        "HashCode": 267337335,
+        "Kind": "Components.Component",
+        "Name": "RoundaBoutz.Client.Pages.CustomerDetails",
+        "AssemblyName": "RoundaBoutz.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RoundaBoutz.Client.Pages.CustomerDetails"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Id",
+              "Common.GloballyQualifiedTypeName": "global::System.Guid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RoundaBoutz.Client.Pages.CustomerDetails",
+          "Common.TypeNamespace": "RoundaBoutz.Client.Pages",
+          "Common.TypeNameIdentifier": "CustomerDetails",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1683398730,
         "Kind": "Components.Component",
         "Name": "RoundaBoutz.Client.Shared.SurveyPrompt",
