@@ -16,19 +16,15 @@ else
 <EditForm Model="@customer" OnValidSubmit="@HandleValidRequest" OnInvalidSubmit="@HandleFailedRequest">
     <div class="form-group">
         <label class="col-md-3">First Name</label>
-        <InputText class="col-md-8 form-control" @bind-bind-Value="@customer.FirstName"></InputText>
+        <InputText class="col-md-8 form-control" @bind-Value="@customer.FirstName"></InputText>
     </div>
     <div class="form-group">
         <label class="col-md-3">Last Name</label>
-        <InputText class="col-md-8 form-control" @bind-bind-Value="@customer.LastName"></InputText>
+        <InputText class="col-md-8 form-control" @bind-Value="@customer.LastName"></InputText>
     </div>
     <div class="form-group">
         <label class="col-md-3">Phone Number</label>
-        <InputText class="col-md-8 form-control" @bind-bind-Value="@customer.PhoneNumber"></InputText>
-    </div>
-    <div class="form-group">
-        <label class="col-md-3">Active</label>
-        <InputText class="col-md-8 form-control" @bind-bind-Value="@customer.Active"></InputText>
+        <InputText class="col-md-8 form-control" @bind-Value="@customer.PhoneNumber"></InputText>
     </div>
     <br />
     <div class="form-group">

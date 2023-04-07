@@ -28,7 +28,7 @@
             <td>@item.LastName</td>
             <td>@item.PhoneNumber</td>
             <td>@item.Active</td>
-            <td></td>
+            <td><a href=@($"CustomerDetails/{item.Id}") class="btn btn-warning"> Edit </a></td>
         </tr>
     }
 

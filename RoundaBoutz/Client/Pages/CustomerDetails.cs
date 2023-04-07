@@ -43,7 +43,53 @@ public partial class CustomerDetails
 
     protected void GoToCustomers()
     {
+
         navigationManager.NavigateTo("/Customers");
+    }
+
+    protected async Task DeleteCustomer()
+    {
+        if(Id != Guid.Empty)
+        {
+            var result = await customerService.Delete(Id);
+
+            if(result)
+            {
+                navigationManager.NavigateTo("/Customers");
+            }
+            else
+            {
+                Message = "An error occured, Customer was not deleted.";
+            }
+        }
+    }
+
+    protected async void HandleValidRequest()
+    {
+        if(Id == Guid.Empty)
+        {
+            var result = await customerService.AddCustomer(customer);
+
+            if(result == null)
+            {
+                Message = "An Error Occured, Customer not added.";
+            }
+
+            navigationManager.NavigateTo("/Customers");
+        }
+        else
+        {
+            var result = await customerService.Update(customer);
+
+            if(result)
+            {
+                navigationManager.NavigateTo("/Customers");
+            }
+            else
+            {
+                Message = "An Error Occured, Customer not Updated.";
+            }
+        }
     }
 
 }

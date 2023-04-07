@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{10AFD363-35CA-48A8-87B1-B6BF765DEFAB}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.razor" relfile="Client/Pages/CustomerDetails.razor" line="31" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.razor" relfile="Client/Pages/CustomerDetails.razor" line="32" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.razor" relfile="Client/Pages/CustomerDetails.razor" line="16" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.cs" relfile="Client/Pages/CustomerDetails.cs" line="47" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.cs" relfile="Client/Pages/CustomerDetails.cs" line="41" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.cs" relfile="Client/Pages/CustomerDetails.cs" line="52" column="1" />
+      <Breakpoint file="/Users/matthewgibson/Documents/Code/CodeKy/project/RoundaBoutz/RoundaBoutz/Client/Pages/CustomerDetails.cs" relfile="Client/Pages/CustomerDetails.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RoundaBoutz.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundaBoutz" expanded="True">
+            <Node name="RoundaBoutz.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="CustomerDetails.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="RoundaBoutz.Server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="RoundaBoutz.Shared" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
