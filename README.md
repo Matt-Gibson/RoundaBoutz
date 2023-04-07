@@ -13,3 +13,4 @@ The Project does retrieve Customers from a PostgreSQL DB, store them in a List, 
 
 
 In this implementation. The DB component is utilizing a PostgreSQL DB running as a background service, and will need to be installed on the machine looking at the Project.
+I have provided an SQL file within the main directory of the repo to fill the DB with 10 example Customers.
