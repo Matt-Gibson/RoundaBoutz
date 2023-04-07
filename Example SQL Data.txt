@@ -1,0 +1,16 @@
+INSERT INTO "Customers" ("Id", "FirstName", "LastName", "PhoneNumber", "Active")
+VALUES 
+    ('082fefff-3152-4931-8d55-db60df4d77c1', 'John', 'Doe', '859-867-5309', true),
+    ('082fefff-3152-4931-8d55-db60df4d77c2', 'Jane', 'Doe', '859-867-5310', false),
+    ('082fefff-3152-4931-8d55-db60df4d77c3', 'Bob', 'Smith', '859-867-5311', true),
+    ('082fefff-3152-4931-8d55-db60df4d77c4', 'Alice', 'Smith', '859-867-5312', false),
+    ('082fefff-3152-4931-8d55-db60df4d77c5', 'Mike', 'Johnson', '859-867-5313', true),
+    ('082fefff-3152-4931-8d55-db60df4d77c6', 'Samantha', 'Johnson', '859-867-5314', false),
+    ('082fefff-3152-4931-8d55-db60df4d77c7', 'David', 'Lee', '859-867-5315', true),
+    ('082fefff-3152-4931-8d55-db60df4d77c8', 'Dee', 'Doe', '859-867-5309', true),
+    ('082fefff-3152-4931-8d55-db60df4d77c9', 'Bill', 'Williams', '859-867-5316', false),
+    ('082fefff-3152-4931-8d55-db60df4d77d0', 'Emily', 'Brown', '859-867-5317', true);
+
+
+
+
